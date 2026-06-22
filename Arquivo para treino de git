@@ -1,9 +1,0 @@
-packegeTreinodeif/else
-public class{
-public estatic void (String [] args)
-if ( sinal verde ) { seguir em frente
-//se o sinal estiver verde, atravesse a rua
-} else { pare
-//se o sinal estiver vermelho, fique parado
- }
- }
